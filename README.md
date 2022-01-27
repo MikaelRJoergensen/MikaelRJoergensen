@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MikaelRJoergensen
-- 👀 I’m interested in Data Science 
+- 👀 I’m interested in automation, agile work, Machine Learning and data analysis.  
 - 🌱 I’m currently learning to code in Python and R
 - 📫 You can reach me by mail: mikaelrebeiro@hotmail.com
 
