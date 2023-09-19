@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikaelRJoergensen
-- 👀 I’m interested in automation, agile work, Machine Learning and data analysis.  
-- 🌱 I’m currently learning to code in Python and R
+- 👀 I’m interested in automation sofwares, agile work, Machine Learning, LLMs, NLP and data analysis.  
+- 🌱 I’m currently learning to code in Python, Java Script, UiPath and Power Automate
 - 📫 You can reach me by mail: mikaelrebeiro@hotmail.com
 
 <!---
